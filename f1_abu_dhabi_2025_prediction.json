@@ -1,0 +1,95 @@
+{
+    "prediction_date": "2026-01-08 05:35:52",
+    "race": "2025 Abu Dhabi Grand Prix",
+    "circuit": "Yas Marina Circuit",
+    "predicted_winner": "Verstappen",
+    "winner_probability": 12.350201287811046,
+    "winner_team": "Red Bull",
+    "top_3_predictions": [
+        {
+            "Driver": "Verstappen",
+            "Team": "Red Bull",
+            "Win_Probability": 12.350201287811046
+        },
+        {
+            "Driver": "Hamilton",
+            "Team": "Mercedes",
+            "Win_Probability": 11.502673662360795
+        },
+        {
+            "Driver": "Leclerc",
+            "Team": "Ferrari",
+            "Win_Probability": 10.944239146439129
+        }
+    ],
+    "all_predictions": [
+        {
+            "Driver": "Verstappen",
+            "Team": "Red Bull",
+            "Win_Probability": 12.350201287811046,
+            "Qualifying_Position": 1
+        },
+        {
+            "Driver": "Hamilton",
+            "Team": "Mercedes",
+            "Win_Probability": 11.502673662360795,
+            "Qualifying_Position": 5
+        },
+        {
+            "Driver": "Leclerc",
+            "Team": "Ferrari",
+            "Win_Probability": 10.944239146439129,
+            "Qualifying_Position": 2
+        },
+        {
+            "Driver": "Norris",
+            "Team": "McLaren",
+            "Win_Probability": 10.275195092958697,
+            "Qualifying_Position": 3
+        },
+        {
+            "Driver": "Alonso",
+            "Team": "Aston Martin",
+            "Win_Probability": 10.11646322412437,
+            "Qualifying_Position": 8
+        },
+        {
+            "Driver": "Sainz",
+            "Team": "Ferrari",
+            "Win_Probability": 10.041765874084687,
+            "Qualifying_Position": 7
+        },
+        {
+            "Driver": "Russell",
+            "Team": "Mercedes",
+            "Win_Probability": 9.653196005128262,
+            "Qualifying_Position": 6
+        },
+        {
+            "Driver": "Piastri",
+            "Team": "McLaren",
+            "Win_Probability": 9.510624620677518,
+            "Qualifying_Position": 4
+        },
+        {
+            "Driver": "Gasly",
+            "Team": "Alpine",
+            "Win_Probability": 8.062286098033091,
+            "Qualifying_Position": 9
+        },
+        {
+            "Driver": "Stroll",
+            "Team": "Aston Martin",
+            "Win_Probability": 7.543354988382407,
+            "Qualifying_Position": 10
+        }
+    ],
+    "methodology": "Weighted scoring based on: Current form (30%), Abu Dhabi history (25%), Qualifying position (20%), Team performance (15%), Experience (10%)",
+    "weights_used": {
+        "current_form": 0.3,
+        "abu_dhabi_history": 0.25,
+        "qualifying": 0.2,
+        "team_performance": 0.15,
+        "experience": 0.1
+    }
+}
